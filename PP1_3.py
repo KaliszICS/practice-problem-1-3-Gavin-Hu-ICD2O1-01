@@ -1,7 +1,20 @@
 
 
 def q1():
-  #Write Assignment code here
+    print ("* * * * * */n* * * * * */n* * * * * */n* * * * * */n* * * * * */n* * * * * *")
+    print (	* * * * */n	*       */n	*       */n	*       */n	* * * * *
+    print(	* * * * * */n	 *       */n	  *     */n	   *   */n	    * */n	     *
+
+
+
+
+
+)       
+
+
+
+
+)
   #Remember your code must be indented once
 
 def q2():
